@@ -1,4 +1,6 @@
-### application.sh - 201x -cronierantoine ###
-echo "version 1.2.1"
-echo "Copyright company -2013"
-echo "Build : 10:00"
+### application.sh - 2013 -cronierantoine ###
+version = "2.0.0"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
