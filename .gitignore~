@@ -2,3 +2,7 @@
 *.exe
 ##Ignore all .dll
 *.dll
+##Ignore all temporary file
+*~
+##Ignore changelog
+/changelog.txt
