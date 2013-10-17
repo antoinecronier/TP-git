@@ -1,0 +1,6 @@
+0cd1c5a display copyright
+86973ca exclude temporary file
+b5b081a gitignore exclude temporary
+56edc86 Add file header
+9924fd5 Add build time
+8524510 Initial commit
