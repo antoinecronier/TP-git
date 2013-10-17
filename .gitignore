@@ -1,0 +1,4 @@
+##Ignore all .exe
+*.exe
+##Ignore all .dll
+*.dll
