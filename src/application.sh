@@ -1,4 +1,4 @@
-### application.sh - 2013 -cronierantoine ###
+### application.sh - 2013 -cronierantoine - Robin ALexandre ###
 version = "2"
 build_hour = "11H00"
 
